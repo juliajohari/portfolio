@@ -46,6 +46,7 @@ footer {
   padding: 20px 100px;
   background-color: white;
   max-width: 600px;
+  min-width: 500px;
 }
 
 /* ------    logo    ------ */
