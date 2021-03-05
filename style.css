@@ -41,7 +41,8 @@ footer {
 
 .container {
   display: block;
-  margin: 10px 150px;
+  /*margin: 10px 150px;*/
+  margin: auto;
   padding: 20px 100px;
   background-color: white;
   max-width: 600px;
