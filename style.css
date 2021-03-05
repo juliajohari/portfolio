@@ -53,13 +53,12 @@ header h1 {
 	padding: 20px 0 0 0px;
   width: 400px;
 	border: none;
-	background-image: url("images/logo.jpeg");
 }
 
 
 /* ------ typography ------ */
 
-h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6 {
   text-align: center;
   font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
