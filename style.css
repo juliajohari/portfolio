@@ -51,20 +51,13 @@ footer {
 
 header h1 {
 	padding: 20px 0 0 0px;
-  margin: 0;
-  color: Black;
-  float: center;
-}
-
-
-
-/* ------ typography ------ */
-
-h1 {
   width: 400px;
 	border: none;
 	background-image: url("images/logo.jpeg");
 }
+
+
+/* ------ typography ------ */
 
 h2, h3, h4, h5, h6 {
   text-align: center;
