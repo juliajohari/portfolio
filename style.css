@@ -43,10 +43,11 @@ footer {
 .container {
   display: block;
   /*margin: 10px 150px;*/
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
   padding: 20px 100px;
   background-color: white;
-  max-width: 600px;
+  max-width: 980px;
   min-width: 500px;
 }
 
@@ -70,7 +71,7 @@ p, ul, ol {
   color: black;
   /*font-family: 'Nunito Sans', sans-serif;*/
   font-family: 'Lato', sans-serif;
-  font-size:17px;
+  font-size:18px;
   font-weight: lighter;
 }
 
@@ -97,7 +98,7 @@ hr {
 a {
   color: gray;
   font-family: 'Lato', sans-serif;
-  font-size:17px;
+  font-size:18px;
   font-weight: bold;
   text-decoration: none;
 }
